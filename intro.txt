@@ -1,0 +1,1 @@
+Just practicing Git and GitHub using the comman line.
